@@ -2,12 +2,12 @@
 title: "International Economics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2024-spring-econ3761
+# permalink: /teaching/2024-spring-econ3761
 venue: "Department of Economics, WashU, Spring 2024"
-date: 2024-01-15
+# date: 2024-01-15
 location: "St. Louis, USA"
 ---
 
-This course was taught by Prof. Sukkoo Kim during the Spring semester in 2024 at Washington Univeristy in St. Louis.
+
 
 
