@@ -11,7 +11,7 @@ Welcome! I am a Ph.D. candidate in Economics at Washington University in St. Lou
 
 My research interests lie within the intersection of international trade, innovation, macroeconomics, and development.
 
-I received my Bachelor's Degree in Economics and Information System (with a minor in Mathematics) from Hong Kong University of Science and Technology in 2022, and was featured in the [promotion video](https://www.youtube.com/watch?v=fy01loj6cLo) for my program.
+I received my Bachelor's Degree in Economics and Information System (with a minor in Mathematics) from Hong Kong University of Science and Technology in 2022, and was featured in the [promotion video](https://www.youtube.com/watch?v=fy01loj6cLo) for ECON major.
 
 CV is available upon request.
 
