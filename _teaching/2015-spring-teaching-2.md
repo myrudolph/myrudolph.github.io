@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "International Economics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2024-spring-econ3761
+venue: "Department of Economics, WashU, Spring 2024"
+date: 2024-01-15
+location: "St. Louis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course was taught by Prof. Sukkoo Kim during the Spring semester in 2024 at Washington Univeristy in St. Louis.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

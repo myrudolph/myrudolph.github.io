@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "ECON 407: Market Design"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-econ407
+venue: "Department of Economics, WashU, Fall 2023 "
+date: 2023-09-01
+location: "St. Louis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course was taught by Prof. Sangmok Lee during the Fall semester in 2023 at Washington University in St. Louis
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
